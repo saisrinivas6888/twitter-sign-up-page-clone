@@ -17,9 +17,6 @@ A fully responsive Twitter sign-up page clone built using **HTML, CSS, and JavaS
 - **CSS3** - For styling and responsiveness
 - **JavaScript** - For form validation and interactions
 
-## Screenshots
-
-![Twitter Clone Screenshot](https://via.placeholder.com/800x400) *(Replace with actual screenshot)*
 
 ## Project Structure
 twitter-sign-up-page-clone
